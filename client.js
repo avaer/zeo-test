@@ -1,3 +1,5 @@
+console.log('test 0.0.2');
+
 class Test {
   mount() {
     const {three, elements, input, pose, render} = zeo;
