@@ -1,0 +1,13 @@
+{
+  "name": "zeo-test",
+  "version": "0.0.1",
+  "description": "Zeo test component.",
+  "client": "client.js",
+  "keywords": [
+    "zeo-mod"
+  ],
+  "vrid": {
+    "asset": "TEST"
+  },
+  "dpendencies": {}
+}
