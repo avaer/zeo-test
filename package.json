@@ -1,12 +1,12 @@
 {
   "name": "zeo-test",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Zeo test component.",
   "client": "client.js",
   "keywords": [
     "zeo-mod"
   ],
-  "zeo": {
+  "metadata": {
     "owner": "WFf3ZfSJyKT8abdaUcfdgdSF7Mr1",
     "asset": "apple"
   },
