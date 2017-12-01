@@ -17,6 +17,12 @@ class Test {
             1, 1, 1
           ]
         },
+        direction: {
+          type: 'vector',
+          value: [
+            0, 0, 0,
+          ]
+        },
         text: {
           type: 'text',
           value: 'Some text',
