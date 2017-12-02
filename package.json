@@ -16,7 +16,7 @@
     "items": [
       {
         "icon": "icon.png",
-        "name": "zeo-test",
+        "type": "zeo-test",
         "attributes": {
           "position": {
             "type": "matrix",
