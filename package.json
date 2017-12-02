@@ -14,6 +14,53 @@
   "metadata": {
     "owner": "avaer",
     "icon": "icon.png",
-    "fileType": "zeo-test"
+    "fileType": "zeo-test",
+    "attributes": {
+      "position": {
+        "type": "matrix",
+        "value": [
+          0, 0, 0,
+          0, 0, 0, 1,
+          1, 1, 1
+        ]
+      },
+      "direction": {
+        "type": "vector",
+        "value": [
+          0, 0, 0
+        ]
+      },
+      "text": {
+        "type": "text",
+        "value": "Some text"
+      },
+      "number": {
+        "type": "number",
+        "value": 1,
+        "min": 0,
+        "max": 10,
+        "step": 1
+      },
+      "select": {
+        "type": "select",
+        "value": "Option A",
+        "options": [
+          "Option A",
+          "Option B"
+        ]
+      },
+      "color": {
+        "type": "color",
+        "value": "#E91E63"
+      },
+      "checkbox": {
+        "type": "checkbox",
+        "value": false
+      },
+      "file": {
+        "type": "file",
+        "value": "https://lol.com"
+      }
+    }
   }
 }
